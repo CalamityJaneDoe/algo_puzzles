@@ -1,4 +1,4 @@
-def open_closed(s: str) -> bool:
+def opened_closed(s: str) -> bool:
     """
     Returns True if each type of opening char ([, (, ', ") has one closing counterpart
     The opening char MUST be before the closing one within the str
